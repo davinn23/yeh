@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Les Paul Gibson",
+        "price": 1300,
+        "image": "image/lp.png"
+    },
+    {
+        "id": 2,
+        "name": "Fender",
+        "price": 1200,
+        "image": "image/pender.png"
+    },
+    {
+        "id": 3,
+        "name": "Telecaster",
+        "price": 1000,
+        "image": "image/tele.png"
+    },
+    {
+        "id": 4,
+        "name": "Stratocaster",
+        "price": 1400,
+        "image": "image/strato.png"
+    },
+    {
+        "id": 5,
+        "name": "SCHECTER SYNISTER",
+        "price": 2000,
+        "image": "image/sch.png"
+    }
+]
